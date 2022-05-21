@@ -1,0 +1,40 @@
+body{
+    background: antiquewhite;
+}
+
+a{
+    list-style: none;
+}
+
+.logo{
+    font-size: 2rem;
+    font-family: 'Smooch';
+}
+
+.flex{
+    display: flex;
+}
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+    background: beige;
+    padding: 50px;
+    margin: 80px;
+}
+
+.fa-brands{
+    font-size: 3rem
+}
+
+.dfooter{
+    width: 600px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title{
+    font-size: 1.5rem;
+    margin-top: 1.5rem;
+}
